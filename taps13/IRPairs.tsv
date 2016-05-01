@@ -1,0 +1,97 @@
+Lipopolysaccharide Biosynthesis / Recycling	D-glycero-D-manno-heptose 7-phosphate kinase	hldE	D-Glycero-D-manno-heptose 1,7-bisphosphate	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase	gmhB
+Cofactor and Prosthetic Group Biosynthesis	5-amino-6-(5-phosphoribosylamino)uracil reductase	ribD	5-Amino-6-(5'-phosphoribitylamino)uracil	pyrimidine phosphatase	
+Cofactor and Prosthetic Group Biosynthesis	hypothetical enyme		Pyridoxamine	pyridoxamine kinase	pdxK
+Cofactor and Prosthetic Group Biosynthesis	3,4-Dihydroxy-2-butanone-4-phosphate synthase	ribB	3,4-dihydroxy-2-butanone 4-phosphate	riboflavin synthase	ribE
+Glycerophospholipid Metabolism	Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)	ugpQ	Glycerol 3-phosphate	glycerol-3-phosphate dehydrogenase (ubiquinone-8)	(glpA and glpB and glpC) or glpD
+Alternate Carbon Metabolism	Cytidine hydrolase	rihB or rihA or rihC	D-Ribose	ribokinase	rbsK
+Methionine Metabolism	S-ribosylhomocysteine cleavage enzyme	luxS	L-Homocysteine	methionine synthase	metE
+Cofactor and Prosthetic Group Biosynthesis	quinolinate synthase	nadA	Quinolinate	nicotinate-nucleotide diphosphorylase (carboxylating)	nadC
+Glycerophospholipid Metabolism	Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine)	ugpQ	Glycerol 3-phosphate	glycerol-3-phosphate dehydrogenase (ubiquinone-8)	(glpA and glpB and glpC) or glpD
+Methionine Metabolism	O-succinylhomoserine lyase (L-cysteine)	metB	Succinate	Propanoyl-CoA: succinate CoA-transferase	scpC
+Alternate Carbon Metabolism	ribose 5-phosphate phosphatase	ybiV	D-Ribose	ribokinase	rbsK
+Cofactor and Prosthetic Group Biosynthesis	pantothenate kinase	coaA	D-4'-Phosphopantothenate	phosphopantothenate-cysteine ligase	dfp
+Cofactor and Prosthetic Group Biosynthesis	2-dehydropantoate 2-reductase	panE or ilvC	(R)-Pantoate	pantothenate synthase	panC
+Cofactor and Prosthetic Group Biosynthesis	porphobilinogen synthase	hemB	Porphobilinogen	hydroxymethylbilane synthase	hemC
+Cofactor and Prosthetic Group Biosynthesis	phosphopantothenate-cysteine ligase	dfp	CMP	CMP nucleosidase	
+Cofactor and Prosthetic Group Biosynthesis	alpha-ribazole 5-phosphate phosphatase	cobC	N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole	Adenosylcobalamin 5'-phosphate synthase	cobS
+Cofactor and Prosthetic Group Biosynthesis	phosphopantothenoylcysteine decarboxylase	dfp	Pantetheine 4'-phosphate	pantetheine-phosphate adenylyltransferase	coaD
+Arginine and Proline Metabolism	methylthioadenosine nucleosidase	mtn	Adenine	adenine phosphoribosyltransferase	apt
+Alternate Carbon Metabolism	Uridine hydrolase	rihB or rihA or rihC	Uracil	uracil phosphoribosyltransferase	upp
+Nucleotide Salvage Pathway	Nucleoside triphosphate pyrophosphorylase (ditp)	rdgB	dIMP	5'-nucleotidase (dIMP)	yfbR or surE
+Cofactor and Prosthetic Group Biosynthesis	Dihydroneopterin triphosphate pyrophosphatase	mutT or nudB	Dihydroneopterin monophosphate	Dihydroneopterin monophosphate dephosphorylase	
+Lipopolysaccharide Biosynthesis / Recycling	Lipid A disaccaride synthase	lpxB	UDP	ribonucleoside-diphosphate reductase (UDP)	((nrdA and nrdB) and trxA) or ((nrdA and nrdB) and trxC)
+Cofactor and Prosthetic Group Biosynthesis	riboflavin synthase	ribE	6,7-Dimethyl-8-(1-D-ribityl)lumazine	riboflavin synthase	ribC
+Alternate Carbon Metabolism	Phenylpropanoate Dioxygenase	hcaE and hcaF and hcaC and hcaD	cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol	2,3-dihydroxyphenylpropionate dehydrogenase	hcaB
+Cofactor and Prosthetic Group Biosynthesis	dimethylallyltranstransferase	ispA	Geranyl diphosphate	geranyltranstransferase	ispA
+Lipopolysaccharide Biosynthesis / Recycling	3-deoxy -D-manno-octulosonic -acid 8-phosphate synthase	kdsA	3-Deoxy-D-manno-octulosonate 8-phosphate	3-deoxy-manno-octulosonate-8-phosphatase	kdsC
+Threonine and Lysine Metabolism	dihydrodipicolinate synthase	dapA	2,3-Dihydrodipicolinate	dihydrodipicolinate reductase (NADPH)	dapB
+Cofactor and Prosthetic Group Biosynthesis	dihydrofolate synthase	folC	7,8-Dihydrofolate	dihydrofolate reductase	folM or folA
+Tyrosine, Tryptophan, and Phenylalanine Metabolism	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	aroF or aroG or aroH	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	3-dehydroquinate synthase	aroB
+Cofactor and Prosthetic Group Biosynthesis	isochorismatase	entB	2,3-Dihydro-2,3-dihydroxybenzoate	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	entA
+Cofactor and Prosthetic Group Biosynthesis	NMN nucleosidase		alpha-D-Ribose 5-phosphate	ribose 5-phosphate phosphatase	ybiV
+Purine and Pyrimidine Biosynthesis	Fumarate dependent DHORD		Succinate	Propanoyl-CoA: succinate CoA-transferase	scpC
+Transport, Inner Membrane	NMN transport via NMN glycohydrolase (periplasm)		alpha-D-Ribose 5-phosphate	ribose 5-phosphate phosphatase	ybiV
+Cofactor and Prosthetic Group Biosynthesis	Chorismate pyruvate lyase	ubiC	4-Hydroxybenzoate	Hydroxybenzoate octaprenyltransferase	ubiA
+Alternate Carbon Metabolism	2,3-dihydroxyphenylpropionate dehydrogenase	hcaB	3-(2,3-Dihydroxyphenyl)propanoate	2,3-dihydroxypheylpropionate 1,2-dioxygenase	mhpB
+Cofactor and Prosthetic Group Biosynthesis	dihydropteroate synthase	folP	Dihydropteroate	dihydrofolate synthase	folC
+Alternate Carbon Metabolism	Cinnamate dioxygenase	hcaE and hcaF and hcaC and hcaD	cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	2,3-dihydroxycinnamate dehydrogenase	hcaB
+Alternate Carbon Metabolism	2,3-dihydroxycinnamate dehydrogenase	hcaB	2,3-dihydroxicinnamic acid	2,3-dihydroxycinnamate 1,2-dioxygenase	mhpB
+Cofactor and Prosthetic Group Biosynthesis	aspartate 1-decarboxylase	panD	beta-Alanine	pantothenate synthase	panC
+Alternate Carbon Metabolism	galactonate dehydratase	dgoD	2-Dehydro-3-deoxy-D-galactonate	2-dehydro-3-deoxygalactonokinase	dgoK
+Methylglyoxal Metabolism	aldose reductase (methylglyoxal)	dkgA or dkgB or yeaE or gpr	Acetol	aldose reductase (acetol)	gldA
+Arginine and Proline Metabolism	Glutathionylspermidine synthetase	gss	Glutathionylspermidine	Glutathionylspermidine amidase	gss
+Cofactor and Prosthetic Group Biosynthesis	NAD nucleosidase		ADPribose	ADPribose diphosphatase	nudE or nudF
+Cell Envelope Biosynthesis	UDPglucose 6-dehydrogenase	ugd	UDP-D-glucuronate	UDP-glucuronate C-4'' decarboxylase	arnA
+Cofactor and Prosthetic Group Biosynthesis	O-succinylbenzoate-CoA synthase	menC	o-Succinylbenzoate	o-succinylbenzoate-CoA ligase	menE
+Cofactor and Prosthetic Group Biosynthesis	4-aminobenzoate synthase	pabC	4-Aminobenzoate	dihydropteroate synthase	folP
+Cofactor and Prosthetic Group Biosynthesis	4-amino-4-deoxychorismate synthase	pabA and pabB	4-amino-4-deoxychorismate	4-aminobenzoate synthase	pabC
+Alternate Carbon Metabolism	a-galactosidase (melibiose)	melA	D-Glucose	hexokinase (D-glucose:ATP)	glk
+Cell Envelope Biosynthesis	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase	murE	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase	murF
+Cofactor and Prosthetic Group Biosynthesis	pantothenate synthase	panC	(R)-Pantothenate	pantothenate kinase	coaA
+Histidine Metabolism	histidinol-phosphatase	hisB	L-Histidinol	histidinol dehydrogenase	hisD
+Cofactor and Prosthetic Group Biosynthesis	pyrimidine phosphatase		4-(1-D-Ribitylamino)-5-aminouracil	riboflavin synthase	ribE
+Histidine Metabolism	Imidazole-glycerol-3-phosphate synthase	hisH and hisF	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	imidazoleglycerol-phosphate dehydratase	hisB
+Nucleotide Salvage Pathway	adenylate cyclase	cyaA	cAMP	3',5'-cyclic-nucleotide phosphodiesterase	dosP
+Cell Envelope Biosynthesis	GDP-mannose mannosyl hydrolase	wcaH	D-Mannose	hexokinase (D-mannose:ATP)	
+Alternate Carbon Metabolism	Fructoselysine Kinase	frlD	fructoselysine Phosphate	Fructoselysine phosphate deglycase	frlB
+Methylglyoxal Metabolism	D-Lactaldehyde:NAD+ 1-oxidoreductase	gldA	D-Lactaldehyde	lacaldehyde reductase (R-propane-1,2-diol forming)	
+Nucleotide Salvage Pathway	xanthine dehydrogenase	xdhA and xdhB and xdhC	Urate	uricase	
+Alternate Carbon Metabolism	gamma glutamyl putrescine oxidase	puuB	gamma-glutamyl-gamma-butyraldehyde	gamma-glutamyl-gamma aminobutyric acid dehydrogenase	puuC
+Cysteine Metabolism	phosphoadenylyl-sulfate reductase (thioredoxin)	(cysH and trxC) or (cysH and trxA)	Adenosine 3',5'-bisphosphate	3',5'-bisphosphate nucleotidase	cysQ
+Transport, Inner Membrane	D-fructose transport via PEP:Pyr PTS (periplasm)	fruA and fruB and ptsH and ptsI	D-Fructose 1-phosphate	fructose-1-phosphate kinase	fruK
+Alternate Carbon Metabolism	gamma glutamyl putrescine synthase	puuA	gamma-glutamyl-putrescine	gamma glutamyl putrescine oxidase	puuB
+Alternate Carbon Metabolism	b-galactosidase	lacZ	D-Glucose	hexokinase (D-glucose:ATP)	glk
+Arginine and Proline Metabolism	Succinylglutamic semialdehyde dehydrogenase	astD	N2-Succinyl-L-glutamate	Succinylglutamate desuccinylase	astE
+Cofactor and Prosthetic Group Biosynthesis	Pyridoxine 5-phosphate phosphatase	ybhA	Pyridoxine	pyridoxine kinase	pdxK
+Nucleotide Salvage Pathway	thymidylate synthase	thyA	dTMP	5'-nucleotidase (dTMP)	yfbR or surE or yjjG
+Alternate Carbon Metabolism	mannose 6-phosphate phosphatase	ybiV	D-Mannose	hexokinase (D-mannose:ATP)	
+Cofactor and Prosthetic Group Biosynthesis	gamma-glutamylcysteine synthetase	gshA	gamma-L-Glutamyl-L-cysteine	glutathione synthetase	gshB
+Cofactor and Prosthetic Group Biosynthesis	Hydroxybenzoate octaprenyltransferase	ubiA	3-Octaprenyl-4-hydroxybenzoate	Octaprenyl-hydroxybenzoate decarboxylase	ubiD and ubiX
+Cofactor and Prosthetic Group Biosynthesis	2-octaprenyl-6-hydroxyphenol methylase	ubiG	S-Adenosyl-L-homocysteine	S-adenosylhomocysteine nucleosidase	mtn
+Cell Envelope Biosynthesis	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	murA	UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine	UDP-N-acetylenolpyruvoylglucosamine reductase	murB
+Cell Envelope Biosynthesis	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	murD	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase	murE
+Cell Envelope Biosynthesis	UDP-N-acetylmuramoyl-L-alanine synthetase	murC	UDP-N-acetylmuramoyl-L-alanine	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	murD
+Alternate Carbon Metabolism	3-(3-hydroxy-phenyl)propionate hydroxylase	mhpA	3-(2,3-Dihydroxyphenyl)propanoate	2,3-dihydroxypheylpropionate 1,2-dioxygenase	mhpB
+Methionine Metabolism	homoserine O-succinyltransferase	metA	O-Succinyl-L-homoserine	O-succinylhomoserine lyase (L-cysteine)	metB
+Alternate Carbon Metabolism	L-ascorbate 6-phosphate lactonase	ulaG	3-keto-L-gulonate-6-phosphate	3-keto-L-gulonate 6-phosphate decarboxylase	ulaD or yiaQ
+Alternate Carbon Metabolism	3-keto-L-gulonate kinase	lyxK	3-keto-L-gulonate-6-phosphate	3-keto-L-gulonate 6-phosphate decarboxylase	ulaD or yiaQ
+Murein Recycling	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine L,D-carboxypeptidase	ldcA	D-Alanine	D-alanine-D-alanine ligase (reversible)	ddlA or ddlB
+Alternate Carbon Metabolism	2,3-dihydroxycinnamate 1,2-dioxygenase	mhpB	2-hydroxy-6-ketononatrienedioate	2-hydroxy-6-ketononotrienedioate hydrolase	mhpC
+Cofactor and Prosthetic Group Biosynthesis	Nicotinate-nucleotide dimethylbenzimidazole phosphoribosyltransferase	cobT	Nicotinate	nicotinic acid mononucleotide pyrophosphorylase	pncB
+Cofactor and Prosthetic Group Biosynthesis	6-hydroxymethyl-dihydropterin pyrophosphokinase	folK	6-hydroxymethyl-dihydropterin pyrophosphate	dihydropteroate synthase	folP
+Alternate Carbon Metabolism	2,3-dihydroxypheylpropionate 1,2-dioxygenase	mhpB	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate	2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase	mhpC
+Valine, Leucine, and Isoleucine Metabolism	acetolactate synthase	(ilvN and ilvB) or (ilvI and ilvH)	(S)-2-Acetolactate	KARA1_reverse	ilvC
+Transport, Outer Membrane	Fe(III)hydroxamine transport via ton system (extracellular)	fhuA and (tonB and exbD and exbB)	Fe(III)hydroxamate	ferric-dicitrate transport via ABC system (periplasm)	fhuB and fhuC and fhuD
+Cofactor and Prosthetic Group Biosynthesis	hydroxymethylbilane synthase	hemC	Hydroxymethylbilane	uroporphyrinogen-III synthase	hemD
+Threonine and Lysine Metabolism	homoserine kinase	thrB	O-Phospho-L-homoserine	threonine synthase	thrC
+Cofactor and Prosthetic Group Biosynthesis	L-aspartate oxidase	nadB	Iminoaspartate	quinolinate synthase	nadA
+Cofactor and Prosthetic Group Biosynthesis	nicotinamidase	pncA	Nicotinate	nicotinic acid mononucleotide pyrophosphorylase	pncB
+Cofactor and Prosthetic Group Biosynthesis	L-aspartate oxidase	nadB	Iminoaspartate	quinolinate synthase	nadA
+Histidine Metabolism	ATP phosphoribosyltransferase	hisG	1-(5-Phosphoribosyl)-ATP	phosphoribosyl-ATP pyrophosphatase	hisI
+Alternate Carbon Metabolism	trehalose-phosphatase	otsB	Trehalose	alpha,alpha-trehalase	treF
+Alternate Carbon Metabolism	2,3 dioxo-L-gulonate reductase	yiaK	3-Dehydro-L-gulonate	3-keto-L-gulonate kinase	lyxK
+Cofactor and Prosthetic Group Biosynthesis	Pyridoxal 5-phosphate phosphatase	cof or yigL or ybhA	Pyridoxal	pyridoxal kinase	pdxY or pdxK
+Valine, Leucine, and Isoleucine Metabolism	2-aceto-2-hydroxybutanoate synthase	(ilvN and ilvB) or (ilvI and ilvH)	(S)-2-Aceto-2-hydroxybutanoate	ketol-acid reductoisomerase (2-Acetolactate)	ilvC
+Nucleotide Salvage Pathway	CMP nucleosidase		alpha-D-Ribose 5-phosphate	ribose 5-phosphate phosphatase	ybiV
+Inorganic Ion Transport and Metabolism	thiosulfate transport via ABC system (periplasm)	(cysA and cysP and cysU and cysW) or (cysA and cysU and cysW and sbp)	Thiosulfate	Cyanide sulfurtransferase	glpE
+Purine and Pyrimidine Biosynthesis	glutamine phosphoribosyldiphosphate amidotransferase	purF	5-Phospho-beta-D-ribosylamine	phosphoribosylglycinamide synthase	purD
